@@ -1,0 +1,10 @@
+c:\Users\pjlys\Documents\Pieter-Jan\Projects\Courses\ultimate_rust_crash_course\message\target\debug\deps\miniz_oxide-c0ea4c3a3490d8fa.rmeta: C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\lib.rs C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\inflate\mod.rs C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\inflate\core.rs C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\inflate\output_buffer.rs C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\inflate\stream.rs C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\shared.rs
+
+c:\Users\pjlys\Documents\Pieter-Jan\Projects\Courses\ultimate_rust_crash_course\message\target\debug\deps\miniz_oxide-c0ea4c3a3490d8fa.d: C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\lib.rs C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\inflate\mod.rs C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\inflate\core.rs C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\inflate\output_buffer.rs C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\inflate\stream.rs C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\shared.rs
+
+C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\lib.rs:
+C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\inflate\mod.rs:
+C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\inflate\core.rs:
+C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\inflate\output_buffer.rs:
+C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\inflate\stream.rs:
+C:\Users\pjlys\.cargo\registry\src\github.com-1ecc6299db9ec823\miniz_oxide-0.6.2\src\shared.rs:
